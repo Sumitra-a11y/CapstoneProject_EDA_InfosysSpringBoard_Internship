@@ -1,6 +1,6 @@
 # CapstoneProject_EDA_InfosysSpringBoard_Internship
 
-##Adult Census Income Analysis & Earning Potential Prediction
+## Adult Census Income Analysis & Earning Potential Prediction
 
 **Project Overview**
 
